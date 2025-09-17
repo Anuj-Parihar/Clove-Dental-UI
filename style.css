@@ -59,7 +59,7 @@ a {
 }
 .hero-left {
   flex: 1;
-  background: url("/hero1.jpeg") no-repeat center center/cover;
+  background: url("/images/hero1.jpeg") no-repeat center center/cover;
   display: flex;
   align-items: center;
   justify-content: flex-start;
